@@ -22,8 +22,11 @@
   </ul>
 </div>
 <div>
-  <h4>Some result examles</h4>
+  <h4>Some result examples</h4>
   <h5>graph :</h5>
-  <img 
-  
+  <img src=".\src\courbe python .png">
+  <img src=".\src\graph.png">
+  <p>
+    
+  </p>  
 </div>
