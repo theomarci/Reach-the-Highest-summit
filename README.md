@@ -10,5 +10,20 @@
 <br>
 <br>
 <div>
-  <gif src>
+  <h4>Stack :</h4>
+  <img src=".\src\icons8-python.gif" alt="just a gif">
+  <br>
+  <h4>Libraries :</h4>
+  <ul>
+    <li>Random</li>
+    <li>Matplotlib</li>
+    <li>Numpy</li>
+    <li>Math</li>
+  </ul>
+</div>
+<div>
+  <h4>Some result examles</h4>
+  <h5>graph :</h5>
+  <img 
+  
 </div>
