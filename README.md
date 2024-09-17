@@ -28,9 +28,11 @@
   <br>
   <img src=".\src\graph.png">
   <br>
+  <img src=".\src\graph1.png">
+  <br>
   <br>
   <p>
     As you can see, I introduce you three examples displaying a red curved line and two colored points. What does the graph represent ? It's an excellent question that I hasten to answer you now ! First, The red curved line Link all points from my random numbers list calucated with random module and math module, for sin. Then you can see, two points one is blue and the other green. The blue point represents the starting position when I run my code for the first time, it indicated as the first parameter of the main function. The green point, for him, represents the arrival position when my code finish. However, You could observe that my second point isn't in the highest position of the curved line, this is explain by the fact that my function look for the highest point between limited index, in that case 10, to the left or to the right. Then this new point become the new origin point and I recall the function with it. When she didn't found any values superior of the current point then I stop the function and return the highest point found.
   </p>  
-  <h3>Thank you so much to read me If you are some feedback I'm open</h3>
+  <h3 align="center">Thank you so much to read me If you are some feedback I'm open</h3>
 </div>
